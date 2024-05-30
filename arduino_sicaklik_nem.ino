@@ -1,7 +1,7 @@
 #include <DHT.h>  
 #include <ESP8266WiFi.h>
  
-String apiKey = "HPYLWG6F0VP19KL5";     
+String apiKey = ".";     
  
 const char *ssid =  "wi-fi kullanıcı adı";     
 const char *pass =  "şifre";
